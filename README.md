@@ -1,3 +1,5 @@
+![Tela do Desafio](images/ppt-img-1.png)
+
 # Desafio: Pedra, Papel e Tesoura
 
 **Lógica de Programação**
